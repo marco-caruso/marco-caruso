@@ -82,9 +82,12 @@ Collaborative academic project focused on identifying AI-generated synthetic aud
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marco-caruso&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Marco's GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=marco-caruso&show_icons=true&theme=radical&hide_border=true" alt="Marco's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marco-caruso&theme=radical&hide_border=true&background=0D1117" alt="Marco's GitHub Streak" />
+  <!-- GitHub Streak Card (Endpoint aggiornato e stabile) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marco-caruso&theme=radical&hide_border=true" alt="Marco's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-caruso&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-caruso&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
