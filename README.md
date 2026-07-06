@@ -58,7 +58,7 @@ I am a recent Computer Science graduate specializing in Artificial Intelligence 
 
 ### AI Research Intern @ PRALab, University of Cagliari
 *Remote | Sept 2025 – Dec 2025*
-*   Developed a synthetic generation framework for urban security, producing 284 high-fidelity video clips using the **Wan 2.2 (148)** model to simulate normal and anomalous crowd scenarios.
+*   Developed a synthetic generation framework for urban security, producing 284 high-fidelity video clips using the **Wan 2.2 (14B)** model to simulate normal and anomalous crowd scenarios.
 *   Optimized prompt engineering for scenario variety and managed the end-to-end dataset creation workflow, effectively bypassing privacy constraints and the scarcity of real-world labeled data.
 
 ---
