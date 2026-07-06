@@ -79,9 +79,4 @@ Collaborative academic project focused on identifying AI-generated synthetic aud
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-  <!-- GitHub Metrics Animation / Stats -->
-  <img src="https://metrics.lecoq.io/marco-caruso?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=Europe%2FRome" alt="Marco's GitHub Metrics" />
-</div>
