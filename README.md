@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 🌑 Hello, I'm Marco 
+  # Hello, I'm Marco Caruso
   
-  ### Machine Learning & Data Science | Serrenti, Italy
+  ### Machine Learning & Data Science | Cagliari, Italy
   
   <a href="https://www.linkedin.com/in/marco-caruso-3b6b012a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
