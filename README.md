@@ -61,7 +61,7 @@ I am a recent Computer Science graduate specializing in Artificial Intelligence 
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 ### Synthetic Data Augmentation for Crowd Anomaly Detection *(BSc Thesis)*
 Applied research integrating synthetic data to optimize Video Anomaly Detection models. 
@@ -75,6 +75,12 @@ Collaborative academic project focused on identifying AI-generated synthetic aud
 *   **My Contribution:** Extracted critical acoustic features (MFCCs, Mel-Spectrograms).
 *   **Implementation:** Developed and evaluated an SVM classifier using the FakeAVCeleb dataset.
 
+### Frogger Resurrection - Multiprocessing & Multithreading (IPC)
+Arcade game implementation in C focused on concurrency and IPC in Linux (Ncurses & SDL2).
+*   **Architecture**: Built an N-Producers / 1-Consumer architecture managing dynamic game entities.
+*   **Process Version**: Implemented process-level parallelism using `fork()` and anonymous pipes for IPC.
+*   **Thread Version**: Developed thread-level parallelism using `pthread`, circular buffers, mutexes, and semaphores.
+*   **Graphics & Sound**: Integrated terminal-based rendering via `ncurses` and audio playback using SDL2.
 ---
 
 
