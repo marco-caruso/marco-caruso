@@ -15,18 +15,16 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 I am a recent Computer Science graduate specializing in Artificial Intelligence and Data Science. I thrive on building machine learning pipelines, working with generative AI, and analyzing sequential data. With a practical, problem-solving mindset, I am passionate about bridging the gap between academic research and real-world AI applications. 
 
-- 🔭 **Currently Building:** A personal Retrieval-Augmented Generation (RAG) system utilizing my university notes and thesis as a knowledge base.
-- 🌱 **Currently Practicing:** Sharpening my data querying and manipulation skills with daily SQL and Python (Pandas/NumPy) challenges on LeetCode.
-- 🎓 **Education:** BSc in Applied Computer Science and Data Analytics (108/110) from the University of Cagliari. 
-- 📫 **Reach out:** marco.caruso.data@gmail.com
+- **Education:** BSc in Applied Computer Science and Data Analytics (108/110) from the University of Cagliari. 
+- **Reach out:** marco.caruso.data@gmail.com
 
 ---
 
-## 🛠️ Skills & Arsenal
+## Skills
 
 <div align="center">
 
@@ -54,7 +52,7 @@ I am a recent Computer Science graduate specializing in Artificial Intelligence 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### AI Research Intern @ PRALab, University of Cagliari
 *Remote | Sept 2025 – Dec 2025*
@@ -65,14 +63,14 @@ I am a recent Computer Science graduate specializing in Artificial Intelligence 
 
 ## 🚀 Key Projects
 
-### 🔬 Synthetic Data Augmentation for Crowd Anomaly Detection *(BSc Thesis)*
+### Synthetic Data Augmentation for Crowd Anomaly Detection *(BSc Thesis)*
 Applied research integrating synthetic data to optimize Video Anomaly Detection models. 
 *   **Pipeline:** Designed a hybrid training pipeline combining real-world (UCSD Ped2) and synthetic datasets.
 *   **Evaluation:** Tested model robustness and generalization through rigorous cross-dataset testing.
 *   **Analysis:** Conducted quantitative analyses on the impact of synthetic data augmentation on key detection metrics.
 *   **Publication:** Co-authored an academic research paper based on this methodology (currently under peer review).
 
-### 🎙️ Audio Deepfake Detection
+### Audio Deepfake Detection
 Collaborative academic project focused on identifying AI-generated synthetic audio.
 *   **My Contribution:** Extracted critical acoustic features (MFCCs, Mel-Spectrograms).
 *   **Implementation:** Developed and evaluated an SVM classifier using the FakeAVCeleb dataset.
